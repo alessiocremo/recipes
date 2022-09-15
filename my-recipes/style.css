@@ -1,0 +1,33 @@
+* {
+    font-family: Brush Script MT, cursive;
+    padding: 4px;
+}
+
+h1{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+}
+
+.ingredient {
+    padding: 4px;
+    background-color: rgba(208, 0, 255,0.2);
+    border-radius: 10px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+.quantity{
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 3px;
+    background-color: rgb(229, 255, 0);
+}
