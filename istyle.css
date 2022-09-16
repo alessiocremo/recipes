@@ -17,6 +17,11 @@ html {
 }
 
 
+.plate{
+    text-decoration: none;
+    color: black;
+}
+
 #nameofthecourse{
     font-family: Copperplate, Papyrus, fantasy;
     letter-spacing: 1px;

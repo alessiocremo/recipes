@@ -13,7 +13,7 @@ h1{
 
 .ingredient {
     padding: 4px;
-    background-color: rgba(208, 0, 255,0.2);
+    background-color: rgba(0, 255, 0, 0.2);
     border-radius: 10px;
 }
 
@@ -30,4 +30,8 @@ img{
     border-radius: 20px;
     padding: 3px;
     background-color: rgb(229, 255, 0);
+}
+
+.french{
+    background: linear-gradient(yellow, purple );
 }
