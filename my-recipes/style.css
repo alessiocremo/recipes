@@ -21,18 +21,24 @@ h1{
 
 
 .container{
-    display: inline-block;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+
 }
 
 .plateimage{
-    float:left;
-    width:50%;
+    float: left;
 }
 
 .platetable{
     float:right;
 }
 
+.flagimg{
+    width:30px;
+    height:20px;
+}
 
 .quantity{
     font-weight: bold;
@@ -52,4 +58,10 @@ td {
 
 table{
     border-collapse: collapse;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.desc{
+    font-weight: bold;
 }
