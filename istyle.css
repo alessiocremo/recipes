@@ -1,0 +1,37 @@
+h1 {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 72px;
+    background-color: rgb(255, 255, 0);
+    color: purple;
+    border-radius: 35px;
+}
+
+html {
+    background-color: rgba(255, 255, 0, 0.10)
+}
+
+
+.courses{
+    display:inline-block;
+    margin-bottom: 20px;;
+}
+
+
+#nameofthecourse{
+    font-family: Copperplate, Papyrus, fantasy;
+    letter-spacing: 1px;
+    font-size: 20px;
+    background-color: rgb(255, 255, 0);
+    color: purple;
+    border-radius: 5px;
+    padding: 3px;
+    /* margin-bottom: 20px; */
+}
+
+li {
+    margin: 2px 2px 10px 2px;
+}
+
+#comingsoon {
+    font-family: Copperplate, Papyrus, fantasy;
+}
