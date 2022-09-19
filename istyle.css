@@ -4,6 +4,10 @@ h1 {
     background-color: rgb(255, 255, 0);
     color: purple;
     border-radius: 35px;
+    padding-right: 40px;
+    padding-left:40px;
+    padding-top:10px;
+    padding-bottom: 10px;
 }
 
 html {
